@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zjuyxc.github.io/images/xincheng.jpg" class="floatpic" width="180" height="280"> 
+<img src="https://zjuyxc.github.io/images/xincheng.jpg" class="floatpic" width="380" height="480"> 
 
 Here is **Xincheng Yan (Lance, 严昕程)**.<br>
 
