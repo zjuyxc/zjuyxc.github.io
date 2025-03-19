@@ -20,4 +20,9 @@ I am an undergraduate student at Zhejiang University, majoring in Economics, adv
 My current research focuses on practical problems that artificial intelligence faces in applied work. My interests are on the Machine Learning and its applications in causal inference.
 
 
+---
 
+## Award
+
+- Oct 2023: National Scholarship
+- Oct 2023: First Prize in National College Student Mathematics Competition
