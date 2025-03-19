@@ -4,11 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://zjuyxc.github.io/images/xincheng2.jpg" class="floatpic" width="380" height="480"> 
+<img src="https://zjuyxc.github.io/images/xincheng2.jpg" class="floatpic"> 
 
-Here is **Xincheng Yan (Lance, 严昕程)**.<br>
-
-I am an undergraduate student at Zhejiang University, majoring in Economics, advised by [Prof. Zhou Kang](https://sites.google.com/view/zkhk). And I am going to be a PhD student in the Department of Economics at the Chinese University of Hong Kong. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me.
+Here is **Xincheng Yan (Lance, 严昕程)**. I am an undergraduate student at Zhejiang University, majoring in Economics, advised by [Prof. Zhou Kang](https://sites.google.com/view/zkhk). And I am going to be a PhD student in the Department of Economics at the Chinese University of Hong Kong. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me.
 
 ---
 
@@ -26,3 +24,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 - Oct 2023: National Scholarship
 - Oct 2023: First Prize in National College Student Mathematics Competition
+
+
