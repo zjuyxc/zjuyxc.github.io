@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zjuyxc.github.io/xincheng.jpg" class="floatpic" width="360" hight="480"> 
+<img src="https://zjuyxc.github.io/images/xincheng.jpg" class="floatpic" width="360" hight="480"> 
 
 Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
 
